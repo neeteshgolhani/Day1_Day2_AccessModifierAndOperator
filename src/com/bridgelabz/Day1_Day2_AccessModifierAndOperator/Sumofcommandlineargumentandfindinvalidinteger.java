@@ -13,6 +13,6 @@ public class Sumofcommandlineargumentandfindinvalidinteger {
         }
 
         System.out.println("Sum of valid integers: " + sum);
-        System.out.println("Number of invalid integers entered: " + invalidCount);
+        System.out.println("Number of invalid integers entered:" + invalidCount);
     }
 }
